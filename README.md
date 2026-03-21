@@ -13,6 +13,8 @@ The City and County of San Francisco comissioned a pair of studys to understand 
  - Recommendations for improvement between survey responses and freeform text aligned: more repacking space and increased cleaning of high-touch surfaces
 
 ![Satisfaction Pre vs Post](PRESENTATION/SFO-CD_Analysis_Summary_Slide4.png)
+
+
 ![Recommendations for additional omprovement](PRESENTATION/SFO-CD_Analysis_Summary_Slide5.png)
 
 ## Data Sources
