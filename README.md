@@ -1,14 +1,23 @@
 # SFO_CX_Survey
 Code files to implement public portfolio project that analyzes customer survey responses about San Francisco International Airport (SFO) security screening. 
 
-The City and County of San Francisco has made some customer survey information publicly available.
-  These surveys capture customer satisfaction survey responses before and after an update to the security
-  screening area at one of the SFO terminals in 2019. 
+## Business Problem
+The City and County of San Francisco comissioned a pair of studys to understand the impact of upgrades to airport screening at SFO in 2019.  These surveys were made publically available.  I selected this dataset for anlayiss because it allows me to answer these business questions:
+ - Was there was a significant change in satsifaction?
+ - Which portions of the experience most impact satisfaction?
+ - What opportunities for further improvement remain?
 				
-Details on the source of this data are provided below:
-  SFO May URL: https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy/about_data
-  SFO Oct URL: https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-October-2019/xyey-v962/about_data
+## Key Findings
+ - Overall satisfaction significantly incrased after upgrades
+ - Of the four biggest drivers of satisfaction, two showed improvement
+ - Recommendations for improvement between survey responses and freeform text aligned: more repacking space and increased cleaning of high-touch surfaces
 
+!(PRESENTATION/SFO-CD_Analysis_Summary_Slide4.png)
+!(PRESENTATION/SFO-CD_Analysis_Summary_Slide5.png)
+
+## Data Sources
+- SFO May URL: https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy/about_data
+- SFO Oct URL: https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-October-2019/xyey-v962/about_data
 
 ## Tech Stack
 - Web-Based SAS Studio (https://welcome.oda.sas.com)
