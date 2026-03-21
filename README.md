@@ -26,10 +26,11 @@ The City and County of San Francisco comissioned a pair of studys to understand 
 - Anaconda (https://www.anaconda.com/download)
 
 ## Features
-- Import and formatting of survey results in SAS
-- Definition and use of custom SAS macro to evaluate changes between pre- and post- samples, collinearity between Likert questions, and contribution of Likert questions to overall satisfaction
-- Implementation of finalized tests of statistical significance of changes between the two survey timepoints; preparation of summary information for presentation
-- Implementation of LLM analysis in Python to identify topics in freeform text.  Evaluation of frequency of topics in pre- and post- sample to look for impacts of security screening updates.
+- Import raw survey results into SAS ([01_SFO-CX_Import_Data.sas](SAS/01_SFO-CX_Import_Data.sas))
+- Consistently format survey responses for downstream analysis ([02_SFO-CX_Data_Prep.sas](SAS/02_SFO-CX_Data_Prep.sas))
+- Define and use of custom SAS macro to evaluate changes between pre- and post- samples, collinearity between Likert questions, and contribution of Likert questions to overall satisfaction ([03_SFO-CX_Variable_Scan.sas](SAS/03_SFO-CX_Variable_Scan.sas))
+- Implement finalized statistical tests of changes between the two survey timepoints; Prepare summary information for presentation ([04_SFO-CX_Statistical_Tests.sas](SAS/04_SFO-CX_Statistical_Tests.sas))
+- Implement LLM in Python to identify topics in freeform text.  Evaluate of frequency of topics in pre- and post- sample to look for impacts of security screening updates. ([05_SFO-CX_LLM_Implementation.py](SAS/05_SFO-CX_LLM_Implementation.py))
 
 ## Contact
 Beau Brouillette - [LinkedIn](https://www.linkedin.com/in/beau-brouillette) - brouillette.beau@gmail.com
