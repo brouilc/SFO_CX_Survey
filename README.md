@@ -2,13 +2,13 @@
 Code files to implement public portfolio project that analyzes customer survey responses about San Francisco International Airport (SFO) security screening. 
 
 ## Business Problem
-The City and County of San Francisco comissioned a pair of studys to understand the impact of upgrades to airport screening at SFO in 2019.  These surveys were made publically available.  I selected this dataset for anlayiss because it allows me to answer these business questions:
- - Was there was a significant change in satsifaction?
+The City and County of San Francisco commissioned a pair of studie to understand the impact of upgrades to airport screening at SFO in 2019.  These surveys were made publicly available.  I selected this dataset for analysis because it allows me to answer these business questions:
+ - Was there a significant change in satisfaction?
  - Which portions of the experience most impact satisfaction?
  - What opportunities for further improvement remain?
 				
 ## Key Findings
- - Overall satisfaction significantly incrased after upgrades
+ - Overall satisfaction significantly increased after upgrades
  - Of the four biggest drivers of satisfaction, two showed improvement
  - Recommendations for improvement between survey responses and freeform text aligned: more repacking space and increased cleaning of high-touch surfaces
 
