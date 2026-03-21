@@ -12,8 +12,8 @@ The City and County of San Francisco comissioned a pair of studys to understand 
  - Of the four biggest drivers of satisfaction, two showed improvement
  - Recommendations for improvement between survey responses and freeform text aligned: more repacking space and increased cleaning of high-touch surfaces
 
-!(PRESENTATION/SFO-CD_Analysis_Summary_Slide4.png)
-!(PRESENTATION/SFO-CD_Analysis_Summary_Slide5.png)
+![Satisfaction Pre vs Post](PRESENTATION/SFO-CD_Analysis_Summary_Slide4.png)
+![Recommendations for additional omprovement](PRESENTATION/SFO-CD_Analysis_Summary_Slide5.png)
 
 ## Data Sources
 - SFO May URL: https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy/about_data
