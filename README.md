@@ -18,8 +18,8 @@ The City and County of San Francisco comissioned a pair of studys to understand 
 ![Recommendations for additional omprovement](PRESENTATION/SFO-CD_Analysis_Summary_Slide5.png)
 
 ## Data Sources
-- SFO May Survey Responses [May](https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy/about_data)
-- SFO Oct Survey Responses [Oct](https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-October-2019/xyey-v962/about_data)
+- SFO May Survey Responses (https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-May-2019/jt6x-6hpy/about_data)
+- SFO Oct Survey Responses (https://data.sfgov.org/Transportation/SFO-Screening-Checkpoint-Satisfaction-October-2019/xyey-v962/about_data)
 
 ## Tech Stack
 - Web-Based SAS Studio (https://welcome.oda.sas.com)
