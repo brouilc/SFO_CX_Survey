@@ -2,7 +2,7 @@
 Code files to implement public portfolio project that analyzes customer survey responses about San Francisco International Airport (SFO) security screening. 
 
 ## Business Problem
-The City and County of San Francisco commissioned a pair of surveys to understand the impact of upgrades to airport screening at SFO in 2019.  These surveys were made publicly available.  I selected this dataset for analysis because it allows me to answer these business questions:
+The City and County of San Francisco commissioned a pair of surveys to understand the impact of upgrades to airport screening at SFO in 2019.  These surveys were made publicly available, allowing me to leverage the real-world dataset for this portolio project.  I selected this dataset for analysis because it allows me to answer these business questions:
  - Was there a significant change in satisfaction?
  - Which portions of the experience most impact satisfaction?
  - What opportunities for further improvement remain?
